@@ -1,3 +1,15 @@
+"""
+TPRG2131 Winter 202x tprg2131resistor.py
+October 16th, 2024
+Cornell Falconer-Lawson <Cornell.FalconerLawson@dcmail.ca>
+
+This program is strictly my own work. Any material
+beyond course learning materials that is taken from
+the Web or other sources is properly cited, giving
+credit to the original author(s).
+"""
+
+
 # Resistor class models a resistor that behaves according to Ohm's law.
 
 # MODIFIED TUE FEB 6: fix the PyLint warnings in the unit test code.
