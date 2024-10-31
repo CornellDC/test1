@@ -1,4 +1,13 @@
-"""TPRG2131 Winter 202x RC class starter with simplistic test code."""
+"""
+TPRG2131 Winter 202x RC class starter with simplistic test code.
+October 16th, 2024
+Cornell Falconer-Lawson <Cornell.FalconerLawson@dcmail.ca>
+
+This program is strictly my own work. Any material
+beyond course learning materials that is taken from
+the Web or other sources is properly cited, giving
+credit to the original author(s).
+"""
 
 class ResistorCapacitor (object):
     """Model a resistor-capacitor network"""
